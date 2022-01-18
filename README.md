@@ -2,9 +2,9 @@
 
 Ghost is a free, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
 
-[![GitHub issues](https://img.shields.io/github/issues/Wayne-Jones/ghost-on-heroku)](https://github.com/SNathJr/ghost-on-heroku/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Wayne-Jones/ghost-on-heroku)](https://github.com/SNathJr/ghost-on-heroku/network)
-[![GitHub stars](https://img.shields.io/github/stars/Wayne-Jones/ghost-on-heroku)](https://github.com/SNathJr/ghost-on-heroku/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Wayne-Jones/ghost-on-heroku)](https://github.com/Wayne-Jones/ghost-on-heroku/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Wayne-Jones/ghost-on-heroku)](https://github.com/Wayne-Jones/ghost-on-heroku/network)
+[![GitHub stars](https://img.shields.io/github/stars/Wayne-Jones/ghost-on-heroku)](https://github.com/Wayne-Jones/ghost-on-heroku/stargazers)
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-heroku-6762a6)](https://heroku.com/deploy)
 
 ## Disclaimer
@@ -145,7 +145,7 @@ This repository is a [Node.js](https://nodejs.org) web application that specifie
 Optionally after deployment, to push Ghost upgrades or work with source code, clone this repo (or a fork) and connect it with the Heroku app:
 
 ```bash
-git clone https://github.com/snathjr/ghost-on-heroku
+git clone https://github.com/Wayne-Jones/ghost-on-heroku
 cd ghost-on-heroku
 
 heroku git:remote -a YOURAPPNAME
@@ -186,7 +186,7 @@ If you're worried about packages beyond the root `ghost` server being outdated, 
 
 If you have problems using your instance of Ghost, you should check the [official documentation](http://support.ghost.org/) or
 open an issue on [the official issue tracker](https://github.com/TryGhost/Ghost/issues). If you discover an issue with the
-deployment process provided by _this repository_, then [open an issue here](https://github.com/snathjr/ghost-on-heroku).
+deployment process provided by _this repository_, then [open an issue here](https://github.com/Wayne-Jones/ghost-on-heroku).
 
 ## License
 
