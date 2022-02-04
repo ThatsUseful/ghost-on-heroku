@@ -10,7 +10,7 @@
   "private": true,
   "version": "4.32.3",
   "dependencies": {
-    "attila": "github:zutrinken/attila#3.2.0",
+    "attila": "github:zutrinken/attila#3.4.0",
     "bleak": "github:zutrinken/bleak#1.6.0",
     "casper": "github:tryghost/Casper#4.7.2",
     "ghost": "^4.32.3",

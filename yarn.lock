@@ -1982,9 +1982,10 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-"attila@github:zutrinken/attila#3.2.0":
-  version "3.1.1"
-  resolved "https://codeload.github.com/zutrinken/attila/tar.gz/13029d16063b36d0823957076bca02eb154d8da5"
+"attila@github:zutrinken/attila#3.4.0":
+  version "3.4.0"
+  uid a1e6826511beae88562ba1fe85198b53c007c3cb
+  resolved "https://codeload.github.com/zutrinken/attila/tar.gz/a1e6826511beae88562ba1fe85198b53c007c3cb"
 
 audio-extensions@0.0.0:
   version "0.0.0"
