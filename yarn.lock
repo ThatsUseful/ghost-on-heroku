@@ -9254,6 +9254,10 @@ w3c-xmlserializer@^3.0.0:
   dependencies:
     xml-name-validator "^4.0.0"
 
+"wave@github:tryghost/Wave":
+  version "1.0.0"
+  resolved "https://codeload.github.com/tryghost/Wave/tar.gz/9c1ea16b82187c47fabcecbba77d9f0834fed609"
+
 web-resource-inliner@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/web-resource-inliner/-/web-resource-inliner-5.0.0.tgz#ac30db8096931f20a7c1b3ade54ff444e2e20f7b"
