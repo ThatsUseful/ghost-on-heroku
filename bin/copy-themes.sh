@@ -3,6 +3,7 @@ themes=(
 	attila
 	massively
 	bleak
+	wave
 )
 
 for theme in "${themes[@]}"
