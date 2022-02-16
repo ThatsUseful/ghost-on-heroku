@@ -12,7 +12,6 @@
   "dependencies": {
     "attila": "github:zutrinken/attila#3.4.0",
     "bleak": "github:zutrinken/bleak#1.6.0",
-    "casper": "github:tryghost/Casper#4.7.2",
     "wave": "github:tryghost/Wave",
     "ghost": "^4.36.1",
     "ghost-storage-adapter-s3": "^2.8.0",
