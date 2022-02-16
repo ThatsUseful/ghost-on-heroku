@@ -2160,9 +2160,9 @@ atob@^2.1.2:
   resolved "https://registry.npmjs.org/atob/-/atob-2.1.2.tgz"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-"attila@github:zutrinken/attila#3.4.0":
+"attila@git+https://github.com/zutrinken/attila#3.4.0":
   version "3.4.0"
-  resolved "git+ssh://git@github.com/zutrinken/attila.git#a1e6826511beae88562ba1fe85198b53c007c3cb"
+  resolved "git+https://github.com/zutrinken/attila#a1e6826511beae88562ba1fe85198b53c007c3cb"
 
 audio-extensions@0.0.0:
   version "0.0.0"
@@ -2272,9 +2272,9 @@ bl@^4.0.3:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
-"bleak@github:zutrinken/bleak#1.6.0":
+"bleak@git://github.com/zutrinken/bleak#1.6.0":
   version "1.6.0"
-  resolved "git+ssh://git@github.com/zutrinken/bleak.git#1ebc4b0334dffd64b1b0dafa80976137105f39b7"
+  resolved "git://github.com/zutrinken/bleak#1ebc4b0334dffd64b1b0dafa80976137105f39b7"
 
 bluebird@3.7.2, bluebird@^3.5.0, bluebird@^3.5.3, bluebird@^3.5.4, bluebird@^3.5.5, bluebird@^3.7.0, bluebird@^3.7.2:
   version "3.7.2"
@@ -2568,9 +2568,9 @@ caseless@~0.12.0:
   resolved "https://registry.npmjs.org/caseless/-/caseless-0.12.0.tgz"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
-"casper@github:tryghost/Casper#4.7.2":
+"casper@git+https://github.com/tryghost/Casper#4.7.2":
   version "4.7.2"
-  resolved "https://codeload.github.com/tryghost/Casper/tar.gz/05d0b0c7db0b6bb2a04c96ee1270d21004b9b24a"
+  resolved "git+https://github.com/tryghost/Casper#05d0b0c7db0b6bb2a04c96ee1270d21004b9b24a"
 
 ccount@^1.0.0:
   version "1.1.0"
@@ -6281,9 +6281,9 @@ marked@>=0.1.4:
   resolved "https://registry.npmjs.org/marked/-/marked-4.0.10.tgz"
   integrity sha512-+QvuFj0nGgO970fySghXGmuw+Fd0gD2x3+MqCWLIPf5oxdv1Ka6b2q+z9RP01P/IaKPMEramy+7cNy/Lw8c3hw==
 
-"massively@github:tryghost/massively":
+"massively@git+https://github.com/tryghost/massively":
   version "1.0.3"
-  resolved "git+ssh://git@github.com/tryghost/massively.git#5e1351aad7217a2e37377d583c5424f66537c709"
+  resolved "git+https://github.com/tryghost/massively#5e1351aad7217a2e37377d583c5424f66537c709"
 
 md5@^2.2.1:
   version "2.3.0"
@@ -9195,9 +9195,9 @@ w3c-xmlserializer@^3.0.0:
   dependencies:
     xml-name-validator "^4.0.0"
 
-"wave@github:tryghost/Wave":
+"wave@git+https://github.com/tryghost/Wave":
   version "1.0.0"
-  resolved "git+ssh://git@github.com/tryghost/Wave.git#9c1ea16b82187c47fabcecbba77d9f0834fed609"
+  resolved "git+https://github.com/tryghost/Wave#9c1ea16b82187c47fabcecbba77d9f0834fed609"
 
 web-resource-inliner@^5.0.0:
   version "5.0.0"
